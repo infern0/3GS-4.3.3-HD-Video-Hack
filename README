@@ -2,7 +2,7 @@ This hack simply makes video recording resolution higher in the Camera.app for 3
 
 INSTALLATION [Requires prior knowledge of afc2add or SSH]:
 
-1. Download the ZIP package.
+1. Download the hackedframeworks.ZIP package.
 2. Take the contents of the CFramework folder and put them in "/System/Library/PrivateFrameworks/Celestial.framework/N88/" overwriting the existing files. (Backup advised!)
 3. Take the contents of the AVFramework folder and put them in "/System/Library/Frameworks/AVFoundation.framework/N88/" overwriting the existing file(s). (Backup advised!)
 4. Reload SpringBoard.
